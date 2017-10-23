@@ -5,20 +5,24 @@ Lot&rsquo;s of folk are leaving Wordpress for a flat file CMS system with no dat
 
 We&rsquo;re not talking about static site generators here, text of XML driven file CMS&rsquo;s.
 
-What is a Flat-File CMS?
+What is a Flat-File CMS? Was ist ein Flat-File CMS ?
 ------------------------
 
 Without a database the flat-file CMS stores content in files and folders unlike a traditional database. This means you don&rsquo;t have to query any database of any kind in your system &mdash;there is no database. The flat-file system generates dynamic pages and each blog post or page is simply in a folder of its own (depending on the system and how you structure it). There are several ways to populate and parse content, xml and markdown being the most popular.
 
+*Ohne eine Datenbank speichert ein Flat-File-CMS Inhalte in Dateien und Ordnern und nicht in einer herkömmlichen Datenbank (z.B. MySQL). Das bedeutet, dass Sie keine Datenbank irgendeiner Art in Ihrem System abfragen müssen. Es gibt keine Datenbank. Das Flat-File-System erzeugt dynamische Seiten und jeder Blog-Eintrag oder jede Seite befindet sich einfach in einem eigenen Ordner (abhängig vom System und wie Sie ihn strukturieren). Es gibt mehrere Möglichkeiten, Inhalte zu füllen und zu parsen, wobei xml und markdown am beliebtesten sind.*
+
 There are certain advantages of not using a database like:
 
- * Simplicity
- * Speed
- * Security
- * Version Control
- * Maintenance
- * Portability
- * Less expense (server)
+*Es gibt eine Reihe von Vorteilen wenn man keine Datenbank benutzt:*
+
+ * Simplicity / *Einfachheit*
+ * Speed / *Geschwindigkeit*
+ * Security / *Sicherheit*
+ * Version Control / *Versionskontrolle*
+ * Maintenance / *Wartung*
+ * Portability / *Portierbarkeit*
+ * Less expense (server) / *weniger kostenintensiv in Bezug auf die Serverkosten*
 
 Are they &ldquo;CMS&ndash;Like Systems&rdquo;, shouldn&rsquo;t they be called &ldquo;Content Publishing Systems&rdquo;?
 -----------------------------------------------------------------------------------------------------------------
